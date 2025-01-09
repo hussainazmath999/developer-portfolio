@@ -1,20 +1,15 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    title: "Master of Science in Computer Science.",
+    duration: "Jan 2023 - May 2024",
+    institution: "University of North Carolina at Charlotte",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "Bachelor of Technology in Computer Science",
+    duration: "2017 - 2021",
+    institution: "Velagapudi Ramakrishna Siddhartha Engineering College",
   },
-  {
-    id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
-  }
+  
 ]
