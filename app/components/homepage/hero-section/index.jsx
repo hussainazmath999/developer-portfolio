@@ -32,21 +32,35 @@ function HeroSection() {
           </h1>
 
           <div className="my-12 flex items-center gap-5">
+<<<<<<< HEAD
             {/* <Link
+=======
+            <Link
+>>>>>>> cb6167bece9f159ffdc72cf93ede30f5cfeaf972
               href={personalData.github}
               target='_blank'
               className="transition-all text-pink-500 hover:scale-125 duration-300"
             >
               <BsGithub size={30} />
+<<<<<<< HEAD
             </Link> */}
             {/* <Link
+=======
+            </Link>
+            <Link
+>>>>>>> cb6167bece9f159ffdc72cf93ede30f5cfeaf972
               href={personalData.linkedIn}
               target='_blank'
               className="transition-all text-pink-500 hover:scale-125 duration-300"
             >
               <BsLinkedin size={30} />
+<<<<<<< HEAD
             </Link> */}
             {/* <Link
+=======
+            </Link>
+            <Link
+>>>>>>> cb6167bece9f159ffdc72cf93ede30f5cfeaf972
               href={personalData.facebook}
               target='_blank'
               className="transition-all text-pink-500 hover:scale-125 duration-300"
@@ -66,7 +80,11 @@ function HeroSection() {
               className="transition-all text-pink-500 hover:scale-125 duration-300"
             >
               <FaTwitterSquare size={30} />
+<<<<<<< HEAD
             </Link> */}
+=======
+            </Link>
+>>>>>>> cb6167bece9f159ffdc72cf93ede30f5cfeaf972
           </div>
 
           <div className="flex items-center gap-3">
@@ -126,10 +144,13 @@ function HeroSection() {
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Spring boot</span>
                 <span className="text-gray-400">{"', '"}</span>
+<<<<<<< HEAD
                 <span className="text-amber-300">Node.js</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Python</span>
                 <span className="text-gray-400">{"', '"}</span>
+=======
+>>>>>>> cb6167bece9f159ffdc72cf93ede30f5cfeaf972
                 <span className="text-amber-300">Mysql</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">MongoDB</span>
