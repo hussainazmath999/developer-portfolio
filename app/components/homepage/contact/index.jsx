@@ -49,31 +49,19 @@ function ContactSection() {
             </p>
           </div>
           <div className="mt-8 lg:mt-16 flex items-center gap-5 lg:gap-10">
-<<<<<<< HEAD
             {/* <Link target="_blank" href={personalData.github}>
-=======
-            <Link target="_blank" href={personalData.github}>
->>>>>>> cb6167bece9f159ffdc72cf93ede30f5cfeaf972
               <IoLogoGithub
                 className="bg-[#8b98a5] p-3 rounded-full hover:bg-[#16f2b3] hover:scale-110 transition-all duration-300 text-gray-800 cursor-pointer"
                 size={48}
               />
-<<<<<<< HEAD
             </Link> */}
-=======
-            </Link>
->>>>>>> cb6167bece9f159ffdc72cf93ede30f5cfeaf972
             <Link target="_blank" href={personalData.linkedIn}>
               <BiLogoLinkedin
                 className="bg-[#8b98a5] p-3 rounded-full hover:bg-[#16f2b3] hover:scale-110 transition-all duration-300 text-gray-800 cursor-pointer"
                 size={48}
               />
             </Link>
-<<<<<<< HEAD
             {/* <Link target="_blank" href={personalData.twitter}>
-=======
-            <Link target="_blank" href={personalData.twitter}>
->>>>>>> cb6167bece9f159ffdc72cf93ede30f5cfeaf972
               <FaXTwitter
                 className="bg-[#8b98a5] p-3 rounded-full hover:bg-[#16f2b3] hover:scale-110 transition-all duration-300 text-gray-800 cursor-pointer"
                 size={48}
@@ -90,11 +78,7 @@ function ContactSection() {
                 className="bg-[#8b98a5] p-3 rounded-full hover:bg-[#16f2b3] hover:scale-110 transition-all duration-300 text-gray-800 cursor-pointer"
                 size={48}
               />
-<<<<<<< HEAD
             </Link> */}
-=======
-            </Link>
->>>>>>> cb6167bece9f159ffdc72cf93ede30f5cfeaf972
           </div>
         </div>
       </div>
